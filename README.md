@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerSchwiegersohn
-- 👀 I’m interested in PYTHON and JAVASCRIPT.
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
+- 👀 I’m interested in PYTHON.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me Discord DerSchwiegersohn#7894
 
 <!---
